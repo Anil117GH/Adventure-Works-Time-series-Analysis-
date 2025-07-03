@@ -31,10 +31,10 @@ This project includes three fully interactive Power BI dashboards. The Sales Per
 - Data Profiling Tools such as Column Quality, Column Distribution, and Column Profile for ensuring data accuracy and consistency.
 - Custom Sorting and Hierarchies to enable drill-down and enhance user interactivity
 
-**Author**
-Anil Gowda Hanumantharayappa
-MS in Business Analytics
-https://www.linkedin.com/in/anilgowdah11/ 
+**Author**  
+Anil Gowda Hanumantharayappa, MS in Business Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/anilgowdah11/)
+
 
 
 
