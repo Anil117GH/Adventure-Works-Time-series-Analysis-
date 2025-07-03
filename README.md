@@ -33,7 +33,8 @@ This project includes three fully interactive Power BI dashboards. The Sales Per
 
 **Author**
 Anil Gowda Hanumantharayappa
-🔗 https://www.linkedin.com/in/anilgowdah11/ 
+MS in Business Analytics
+https://www.linkedin.com/in/anilgowdah11/ 
 
 
 
