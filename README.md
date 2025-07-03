@@ -4,6 +4,21 @@ ________________________________________________________________________________
 
 This project includes three fully interactive Power BI dashboards. The Sales Performance Dashboard tracks key metrics such as total sales, profit, return rate, and average order value, featuring visuals like a forecasted line chart, top 10 product rankings, and a product category breakdown, with filters for region, product, and date. The Customer Insights Dashboard focuses on customer-level analysis, displaying revenue per customer, weekly trends, and occupation-wise order volumes. It also includes DAX-powered logic for customer segmentation based on income level and priority flags, along with drill-down functionality to explore individual customer behavior. The third report, the Geographic Sales Overview, maps sales performance across countries including the US, UK, Canada, France, Germany, and Australia, providing insights into regional performance and supporting strategic decision-making across global markets.
 
+
+### Executive Dashboard  
+![Executive Dashboard](images/Executive%20Dashboard.png)
+Summarizes KPIs like revenue, profit, and return rate with a time trend and top product insights.
+
+
+### Customer Insights  
+![Customer Insights](images/Cx%20Insights.png)
+Shows customer behavior by income and occupation, plus weekly revenue trends.
+
+### Regional Sales Map  
+![Map View](images/Map%20view.png)
+_Maps sales by region to compare performance across international markets._
+
+
 **Key Insights Uncovered** 
 - The top 10 products drive the majority of sales but also show higher return rates, highlighting opportunities to improve product quality or fulfillment.
 - Weekly revenue trends reveal seasonal spikes and dips, offering insights for demand forecasting and inventory planning.
